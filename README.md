@@ -1,6 +1,7 @@
 # blogging-app
 >Project Overview
 
+This is blogging application. In this application users can READ, CREATE, UPDATE blogs. And user can get the user details who write the blog.
 
 1.Register Page:-
 ![2023-05-17 (6)](https://github.com/metaphor07/blogging-app/assets/93358507/8873b9a5-5331-44fa-b55d-9419d7a7c80d)
